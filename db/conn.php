@@ -1,9 +1,9 @@
 <?php 
    
-   $host = "sql5.freesqldatabase.com";
-    $db = "sql5663800";
-    $user = "sql5663800";
-    $pass = " N2dvQQ3qGC";
+   $host = "sql3.freesqldatabase.com";
+    $db = "sql3664121";
+    $user = "sql3664121";
+    $pass = "A3mmsz3w7Z";
     $charset = "utf8mb4";
 
     /*$host = "localhost";
